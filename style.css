@@ -1,7 +1,7 @@
 body{
     margin: 0; /*remove a marge,*/
 
-    background-color: darkmagenta; /*muda a cor de fundo*/
+    background-color: rgb(148, 91, 148); /*muda a cor de fundo*/
 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* tipo da letra */
 
@@ -31,8 +31,8 @@ h1{
 
 .imagem img{
 
-width: 50%;
-max-width: 100px;  
+width: 90%;
+max-width: 250px;  
 height: auto ;
 justify-self: center ;
 
