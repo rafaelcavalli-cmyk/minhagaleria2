@@ -27,3 +27,28 @@ h1{
 
     margin: auto; /*Margem*/
 }
+
+
+.imagem img{
+
+width: 50%;
+max-width: 100px;  
+height: auto ;
+justify-self: center ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
